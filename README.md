@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/JOEL7034/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/JOEL7034/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/JOEL7034/LeetCode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/JOEL7034/LeetCode/tree/master/0200-number-of-islands) |
 ## String
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/JOEL7034/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JOEL7034/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JOEL7034/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/JOEL7034/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/JOEL7034/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/JOEL7034/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/JOEL7034/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/JOEL7034/LeetCode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/JOEL7034/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/JOEL7034/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -172,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/JOEL7034/LeetCode/tree/master/0182-duplicate-emails) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/JOEL7034/LeetCode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/JOEL7034/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
