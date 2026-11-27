@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/JOEL7034/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/JOEL7034/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/JOEL7034/LeetCode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/JOEL7034/LeetCode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/JOEL7034/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/JOEL7034/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/JOEL7034/LeetCode/tree/master/0217-contains-duplicate) |
 ## Tree
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/JOEL7034/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/JOEL7034/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/JOEL7034/LeetCode/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
